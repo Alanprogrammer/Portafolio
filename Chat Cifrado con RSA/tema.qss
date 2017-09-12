@@ -1,0 +1,26 @@
+QLineEdit{
+border-radius:5px;
+border:1px solid #00BFFF;
+color:white;
+}
+
+QWidget{
+background:black;
+}
+
+QLabel{
+color:white
+}
+
+QPushButton{
+color: #00BFFF;
+border-radius:5px;
+border:1px solid #00BFFF;
+}
+
+QTextEdit{
+color:white;
+border-radius:5px;
+border:1px solid #00BFFF;
+
+}
